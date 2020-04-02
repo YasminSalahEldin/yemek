@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">yemek</string>
+    <string name="slogan">yummey yemek  </string>
+    <string name="picture_of_the_restaurant">picture of the restaurant</string>
+    <string name="restaurant_name">yummeyYEMEK</string>
+    <string name="description">"We're open early
+sun - thurs 8:30am-3pm
+fri&amp;sat
+ 7:30am- 2pm
+we serve the best food ever
+our menu includes beef, soup,chicken and more".</string>
+
+</resources>
